@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="Preview" src="./Images/hero.gif" width="600">
+</div>
+
 # Course Repo
 
 - **Title:** Programming Basics: Unit 1 - Player Control
